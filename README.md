@@ -1,3 +1,5 @@
+[![Immowelt Group](iwgroup.png)](https://stackshare.io/immowelt-group/)
+
 # brand-assets
 
 > Immowelt brandings
